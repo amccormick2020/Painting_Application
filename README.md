@@ -1,5 +1,5 @@
 # Painting_Application
-August 2023 - Made with C++, CMake, OpenGL, and the GLEW and GLFW libaries. Executable was generated with CMake.  
+August 2023 - Coded with C++, OpenGL, and the GLEW and GLFW libaries. Executable was generated with CMake.  
 
 Controls:  
   
