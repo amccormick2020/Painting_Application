@@ -1,5 +1,5 @@
 # Painting_Application
-August 2023 - From my Computer Graphics course. Only posting the executable application public to prevent future students taking this class from copying my code. "An Aggie does not lie, cheat or steal or tolerate those who do."  
+August 2023 - From my Computer Graphics course. Made with C++, CMake, OpenGL, and the GLEW and GLFW libaries. Only posting the executable application public to prevent future students taking this class from copying my code. "An Aggie does not lie, cheat or steal or tolerate those who do."  
 
 Controls:  
   
